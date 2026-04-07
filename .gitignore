@@ -28,6 +28,7 @@ ENV/
 base/
 notes/
 database/
+papers/
 
 # 日志文件
 *.log
@@ -49,3 +50,6 @@ dist/
 tmp/
 temp/
 *.tmp
+
+# 其他
+.DS_Store
